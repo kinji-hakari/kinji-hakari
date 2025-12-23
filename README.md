@@ -26,7 +26,7 @@ A final-year ICT engineering student interested in **Telecommunications, Cyberse
 
 ---
 
-### Projects I'm working on:
+### Projects :
 - 🔐 **Firewall Rule Analyzer**
 - 📧 **Phishing Email Detection**
 - 🤖 **AI-powered SOC RAG System**
