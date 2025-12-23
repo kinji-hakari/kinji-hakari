@@ -17,8 +17,10 @@ A final-year ICT engineering student interested in **Telecommunications, Cyberse
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,linux,redhat" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,ansible,kibana,git,cisco" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ansible,kibana,cisco" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
 </p>
 
 
