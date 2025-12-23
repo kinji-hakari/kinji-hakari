@@ -4,7 +4,7 @@ A final-year ICT engineering student interested in **Telecommunications, Cyberse
 
 - 📫 How to reach me: **amin.hammemi@supcom.tn**
 
----
+
 
 ### Connect with me:
 <p align="left">
@@ -13,7 +13,7 @@ A final-year ICT engineering student interested in **Telecommunications, Cyberse
   </a>
 </p>
 
----
+
 
 ### Languages and Tools:
 <p align="left">
@@ -24,7 +24,6 @@ A final-year ICT engineering student interested in **Telecommunications, Cyberse
 </p>
 
 
----
 
 ### Projects :
 - 🔐 **Firewall Rule Analyzer**
